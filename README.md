@@ -33,3 +33,21 @@ Your URL will normally look like:
 If you name the repository `Prathapkitti-0x.github.io`, the URL can instead be:
 
 `https://Prathapkitti-0x.github.io/`
+
+
+## Current contact details
+- Email: `prathapkitti@gmail.com`
+- Phone: `+91 8105099408`
+- LinkedIn: `https://www.linkedin.com/in/prathapa-k-39a19621b/`
+- GitHub: `https://github.com/Prathapkitti-0x`
+
+## Updating the resume later
+Keep the filename `resume.pdf`. When you create a new resume, replace the existing `resume.pdf` in this folder and run:
+
+```bash
+git add resume.pdf
+git commit -m "Update resume"
+git push
+```
+
+GitHub Pages will redeploy the updated resume.
